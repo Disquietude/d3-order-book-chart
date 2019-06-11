@@ -1,0 +1,14 @@
+{
+  "name": "d3-order-book-chart",
+  "version": "1.0.0",
+  "description": "Order book chart created using d3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Ngo",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.9.2"
+  }
+}
