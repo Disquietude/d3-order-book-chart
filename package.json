@@ -9,6 +9,6 @@
   "author": "Danny Ngo",
   "license": "MIT",
   "dependencies": {
-    "d3": "^5.9.2"
+    "d3": "^7.6.1"
   }
 }
